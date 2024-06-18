@@ -22,8 +22,8 @@ A Django-based project management app for sharing menus.
   - Menu creation and management
   - User authentication and authorization
   - Real-time updates and notifications
-- **Technologies Used**: Django, PostgreSQL, Bootstrap
-- **Demo**: [Live Demo](https://pizzamama-demo.com)
+- **Technologies Used**: Django, PostgreSQL, HTML/CSS
+<!-- - **Demo**: [Live Demo](https://pizzamama-demo.com) -->
 
 ### [Keya Report Incident](https://github.com/konquerork/keya-report-incident)
 An incident reporting API built with Node.js and Express.
