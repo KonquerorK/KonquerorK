@@ -1,6 +1,6 @@
 # Hi there, I'm The Konqueror 👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/69211991?v=4)
+<!-- ![Profile Picture](https://avatars.githubusercontent.com/u/69211991?v=4) -->
 
 ## 🚀 About Me
 
