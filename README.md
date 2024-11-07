@@ -83,4 +83,5 @@ A comprehensive management system for creches.
 
 ## 📫 Contact Me
 
-Feel free to reach out to me through [LinkedIn](https://linkedin.com/in/yann-kuete) or [signaturethermic@gmail.com](mailto:signaturethermic@gmail.com) for any inquiries or collaborations.
+Feel free to reach out to me through [signaturethermic@gmail.com](mailto:signaturethermic@gmail.com) for any inquiries or collaborations.
+<!--[LinkedIn](https://linkedin.com/in/yann-kuete) or -->
