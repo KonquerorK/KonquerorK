@@ -5,10 +5,10 @@
 ## 🚀 About Me
 
 I'm a full-stack developer with a passion for creating innovative web applications. I specialize in Flutter, Python, React, and Django.
-
+<!--
 - 🌍 Based in Yaounde, CM
 - 🌐 Website: [Konqueror.dev](https://github.com/KonquerorK/)
-- 💼 LinkedIn: [yann-kuete](https://linkedin.com/in/yann-kuete)
+- 💼 LinkedIn: [yann-kuete](https://linkedin.com/in/yann-kuete) -->
 
 With a strong background in both front-end and back-end development, I strive to build efficient, scalable, and user-friendly applications. My expertise lies in developing applications that seamlessly integrate with modern technologies and frameworks.
 
