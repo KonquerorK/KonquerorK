@@ -1,16 +1,154 @@
-# Hi there, I'm The Konqueror 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:1a1a3d&height=240&section=header&text=The%20Konqueror&fontSize=55&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20Crafting%20Scalable%20%26%20Beautiful%20Experiences&descAlignY=76&descSize=20&descColor=cccccc" width="100%"/>
+</div>
 
-<!-- ![Profile Picture](https://avatars.githubusercontent.com/u/69211991?v=4) -->
+<br>
 
-## 🚀 About Me
+<div align="center">
+  <h2>👋 Hey there, I'm The Konqueror</h2>
+  <p><strong>Full-Stack Developer</strong> passionate about building elegant, high-performance applications that scale.</p>
+</div>
 
-I'm a full-stack developer with a passion for creating innovative web applications. I specialize in Flutter, Python, React, and Django.
-<!--
-- 🌍 Based in Yaounde, CM
-- 🌐 Website: [Konqueror.dev](https://github.com/KonquerorK/)
-- 💼 LinkedIn: [yann-kuete](https://linkedin.com/in/yann-kuete) -->
+---
 
-With a strong background in both front-end and back-end development, I strive to build efficient, scalable, and user-friendly applications. My expertise lies in developing applications that seamlessly integrate with modern technologies and frameworks.
+## About Me
+
+I'm a dedicated full-stack developer who loves turning ideas into polished, reliable products.  
+
+I specialize in creating smooth mobile experiences with **Flutter**, modern web interfaces with **React**, and robust backends using **Django**, **Node.js**, and **AdonisJS**.  
+
+Clean architecture, performance, and maintainable code are my top priorities. Always learning, always shipping.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
+
+  <a href="https://www.python.org" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" alt="Python"/>
+    <strong>Python</strong>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" alt="JavaScript"/>
+    <strong>JavaScript</strong>
+  </a>
+
+  <a href="https://dart.dev" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="50" alt="Dart"/>
+    <strong>Dart</strong>
+  </a>
+
+  <a href="https://www.php.net" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" width="50" alt="PHP"/>
+    <strong>PHP</strong>
+  </a>
+
+</div>
+
+### Frontend & Mobile
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
+
+  <a href="https://react.dev" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" alt="React"/>
+    <strong>React.js</strong>
+  </a>
+
+  <a href="https://flutter.dev" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50" alt="Flutter"/>
+    <strong>Flutter</strong>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" alt="HTML5"/>
+    <strong>HTML5</strong>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" alt="CSS3"/>
+    <strong>CSS3</strong>
+  </a>
+
+</div>
+
+### Backend
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
+
+  <a href="https://www.djangoproject.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50" alt="Django"/>
+    <strong>Django</strong>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" alt="Node.js"/>
+    <strong>Node.js</strong>
+  </a>
+
+  <a href="https://expressjs.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" alt="Express.js"/>
+    <strong>Express.js</strong>
+  </a>
+
+  <a href="https://adonisjs.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=adonis&theme=dark" width="50" alt="AdonisJS"/>
+    <strong>AdonisJS</strong>
+  </a>
+
+  <a href="https://laravel.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="50" alt="Laravel"/>
+    <strong>Laravel</strong>
+  </a>
+
+</div>
+
+### Databases
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
+
+  <a href="https://www.postgresql.org" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" alt="PostgreSQL"/>
+    <strong>PostgreSQL</strong>
+  </a>
+
+  <a href="https://www.mongodb.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" alt="MongoDB"/>
+    <strong>MongoDB</strong>
+  </a>
+
+  <a href="https://www.mysql.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" alt="MySQL"/>
+    <strong>MySQL</strong>
+  </a>
+
+  <a href="https://firebase.google.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50" alt="Firebase"/>
+    <strong>Firebase</strong>
+  </a>
+
+</div>
+
+### Tools
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
+
+  <a href="https://git-scm.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"/>
+    <strong>Git</strong>
+  </a>
+
+  <a href="https://github.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/>
+    <strong>GitHub</strong>
+  </a>
+
+  <a href="https://www.postman.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" alt="Postman"/>
+    <strong>Postman</strong>
+  </a>
+
+</div>
+
+---
 
 ## 📌 Featured Projects
 
@@ -63,25 +201,35 @@ A comprehensive management system for creches.
   - Activity scheduling and monitoring
 - **Technologies Used**: Django, PostgreSQL, React
 
-## 📈 GitHub Stats
+---
 
-![KonquerorK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=konquerork&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konquerork&layout=compact)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=konquerork&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konquerork&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-## 🛠️ Skills & Technologies
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konquerork&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
-- **Languages**: Python, JavaScript, Dart, PHP
-- **Frameworks**: Django, React, Flutter, Laravel
-- **Databases**: PostgreSQL, MongoDB, Firebase, MySQL
-- **Tools**: Git, Github
+---
 
-<!-- ## 🏆 Certifications & Achievements
+## 💬 Let's Connect
 
-- [Certification Name](https://certification-link) - Brief description or year
-- [Achievement or Award](https://award-link) - Brief description or year -->
+I'm open to **freelance opportunities**, interesting collaborations, and meaningful tech conversations.
 
-## 📫 Contact Me
+<div align="center" style="margin: 30px 0 20px;">
+  <a href="mailto:signaturethermic@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yann-kuete" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-Feel free to reach out to me through [signaturethermic@gmail.com](mailto:signaturethermic@gmail.com) for any inquiries or collaborations.
-<!--[LinkedIn](https://linkedin.com/in/yann-kuete) or -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
